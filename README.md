@@ -9,6 +9,8 @@ The program will feature a couple of simple loops alongside one another to check
 These loops include a main loop(for checking whether the engine is idling, revving or even off), a fuel pump loop(for turning 
 on and off the fuel pump under certain conditions) and a fuel correction loop(to change the amount of fuel being injected).
 
+![class-diagram](docs/uno-injection/uno-injection-class.png)
+
 This system needs distributor ignition to work, for it won't be able to send spark signal. Also a trigger pulse is needed which
 can be obtained from a built in CAS in the distributor(not excessively common) or a trigger wheel with hall sensor.
 

@@ -1,1 +1,1 @@
-
+void initSerialInterpreter(){}

@@ -1,1 +1,3 @@
+void initCorrectFuelLoop(){}
 
+void correctFuelLoop(){}

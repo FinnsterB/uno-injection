@@ -1,1 +1,3 @@
+void initMainLoop(){}
 
+void mainLoop(){}

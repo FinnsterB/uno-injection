@@ -1,1 +1,3 @@
+void initSerialLoop(){}
 
+void serialLoop(){}

@@ -2,8 +2,7 @@
 ## A solution for a cheap injection system ran from an Arduino Uno with an additional board.
 
 Ever wanted to convert any old 4 cylinder carbed car with distributor ignition to EFI the cheap way? This will not be easy but it will sure be cheap...
-I'm writing this small codebase for the Arduino Uno to take your nugget a decade into the future. I am limited to 4 cylinders because the Uno
-comes with 6 analog i/o pins and 2 of them are taken up by the TPS and MAP sensor.
+I'm writing this small codebase for the Arduino Uno to take your nugget a decade into the future. 
 
 ## The technicals(Hardware):
 There will need to be some stuff in order for the 5v Uno to work with the 12-15V your car will supply.
